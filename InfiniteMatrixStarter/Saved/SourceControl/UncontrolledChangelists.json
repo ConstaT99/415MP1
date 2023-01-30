@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/healthbar.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/HealthPackage.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/BP_Projectile.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/BP_Enemy.uasset",
+				"D:/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/health_c.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/Enemy.uasset",
+				"D:/InfiniteMatrixStarter/Content/Blueprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}
